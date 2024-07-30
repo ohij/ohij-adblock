@@ -1,7 +1,7 @@
 # Ohij Adblock
 
 ## About The Project
-This Project is a simple adbloocker chrome extension
+This Project is a simple adblocker chrome extension
 
 ## Getting Started
 1. go to chrome://extensions/
