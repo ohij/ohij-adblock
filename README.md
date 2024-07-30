@@ -11,5 +11,6 @@ This Project is a simple adbloocker chrome extension
 3. Click the Load unpacked button and select the extension directory.
    
 ## License
-Distributed under the MIT License
+- Project distributed under the MIT License
+- Icon from https://www.flaticon.com
 
